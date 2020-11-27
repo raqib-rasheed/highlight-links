@@ -1,0 +1,4 @@
+.getBoundingClientRect();
+            -->> method returns a DOMRect object providing values about the
+                  size of an element and its position relative to the viewport.
+                  
